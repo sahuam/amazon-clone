@@ -7,7 +7,6 @@
     top:0;
     z-index: 100;
     position: sticky;
-
 }
 
 .header_logo{
@@ -37,7 +36,8 @@
     color:white;
     padding: 5px;
     height: 22px !important;
-    background-color: #cd9042;
+    background-color:rgb(218, 148, 20); 
+    cursor: pointer;
 }
 
 .header_nav{
